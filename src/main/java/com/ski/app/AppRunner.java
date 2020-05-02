@@ -6,7 +6,7 @@ import com.ski.model.Variable;
  * App!
  *
  */
-public class App 
+public class AppRunner
 {
     public static void main( String[] args ){
         System.out.println( "App!" );
